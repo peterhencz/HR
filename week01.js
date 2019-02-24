@@ -1,4 +1,5 @@
 // https://www.hackerrank.com/contests/mindtech-trial/challenges/breaking-best-and-worst-records/problem
+
 function breakingRecords(games, score) {
   let min = [];
   let max = [];
