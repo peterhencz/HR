@@ -22,7 +22,6 @@ const a2 = [17, 28, 30];
 const b2 = [99, 16, 8];
 // 2 1
 
-console.log("first");
 compareTriplets(a1, b1);
-console.log("second");
+
 compareTriplets(a2, b2);
