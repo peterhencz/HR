@@ -1,7 +1,7 @@
 // https://www.hackerrank.com/contests/mindtech-trial/challenges/drawing-book
 
-function pageCount(n, p) {
-  console.log("cica");
+function pageCount(numberOfPages, page) {
+  console.log("numberOfPages: ", numberOfPages, "page: ", page);
 }
 
 n1 = 6;
